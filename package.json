@@ -1,0 +1,14 @@
+{
+  "name": "first_node",
+  "version": "1.0.0",
+  "description": "Testing out node Om namo narayanaya namaha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ZOyo",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
